@@ -1,0 +1,4 @@
+#Tue Jun 28 00:27:26 BDT 2022
+base.0=E\:\\Activity & Fragment Lifecycle\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
